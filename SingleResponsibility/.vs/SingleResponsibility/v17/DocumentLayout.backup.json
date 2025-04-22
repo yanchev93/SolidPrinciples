@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|d:\\programing\\c#\\solidprinciples\\singleresponsibility\\consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|d:\\programing\\c#\\solidprinciples\\singleresponsibility\\consoleui\\persongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\persongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|d:\\programing\\c#\\solidprinciples\\singleresponsibility\\consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PersonValidator.cs",
               "DocumentMoniker": "D:\\Programing\\C#\\SolidPrinciples\\SingleResponsibility\\ConsoleUI\\PersonValidator.cs",
               "RelativeDocumentMoniker": "ConsoleUI\\PersonValidator.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PersonGenerator.cs",
               "DocumentMoniker": "D:\\Programing\\C#\\SolidPrinciples\\SingleResponsibility\\ConsoleUI\\PersonGenerator.cs",
               "RelativeDocumentMoniker": "ConsoleUI\\PersonGenerator.cs",

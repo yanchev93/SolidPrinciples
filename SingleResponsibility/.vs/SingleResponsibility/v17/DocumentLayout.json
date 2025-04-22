@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Programing\\C#\\SolidPrinciples\\SingleResponsibility\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|d:\\programing\\c#\\solidprinciples\\singleresponsibility\\consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|d:\\programing\\c#\\solidprinciples\\singleresponsibility\\consoleui\\persongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\persongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|d:\\programing\\c#\\solidprinciples\\singleresponsibility\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|d:\\programing\\c#\\solidprinciples\\singleresponsibility\\consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39568C2B-342F-4D08-ABC8-03DB9436C60E}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\personvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonValidator.cs",
               "DocumentMoniker": "D:\\Programing\\C#\\SolidPrinciples\\SingleResponsibility\\ConsoleUI\\PersonValidator.cs",
               "RelativeDocumentMoniker": "ConsoleUI\\PersonValidator.cs",
@@ -47,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PersonGenerator.cs",
               "DocumentMoniker": "D:\\Programing\\C#\\SolidPrinciples\\SingleResponsibility\\ConsoleUI\\PersonGenerator.cs",
               "RelativeDocumentMoniker": "ConsoleUI\\PersonGenerator.cs",
@@ -56,19 +52,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T19:29:29.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programing\\C#\\SolidPrinciples\\SingleResponsibility\\ConsoleUI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
-              "ToolTip": "D:\\Programing\\C#\\SolidPrinciples\\SingleResponsibility\\ConsoleUI\\Program.cs",
-              "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T23:17:31.015Z",
               "EditorCaption": ""
             }
           ]
