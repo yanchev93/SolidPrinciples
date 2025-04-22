@@ -1,0 +1,15 @@
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\bin\Debug\net8.0\ConsoleUI.exe
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\bin\Debug\net8.0\ConsoleUI.deps.json
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\bin\Debug\net8.0\ConsoleUI.runtimeconfig.json
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\bin\Debug\net8.0\ConsoleUI.dll
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\bin\Debug\net8.0\ConsoleUI.pdb
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.AssemblyInfo.cs
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.sourcelink.json
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.dll
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\refint\ConsoleUI.dll
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.pdb
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ConsoleUI.genruntimeconfig.cache
+D:\Programing\C#\SolidPrinciples\SingleResponsibility\ConsoleUI\obj\Debug\net8.0\ref\ConsoleUI.dll
